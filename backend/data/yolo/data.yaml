@@ -1,0 +1,13 @@
+path: C:/Users/palak/krishirakshak - Copy/backend/data/yolo
+train: images/train
+val: images/valid
+test: images/test
+names:
+  0: Tomato leaf
+  1: Tomato leaf bacterial spot
+  2: Tomato Early blight leaf
+  3: Tomato leaf late blight
+  4: Tomato leaf mosaic virus
+  5: Tomato leaf yellow virus
+  6: Tomato mold leaf
+  7: Tomato Septoria leaf spot
