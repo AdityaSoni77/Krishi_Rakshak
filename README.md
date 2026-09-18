@@ -203,23 +203,5 @@ Detect Early. Act Smarter. Protect Every Crop.
 📜 License
 
 This project is developed as a hackathon prototype.
-
-
-### Then push the updated README
-
-In your project folder:
-
-```powershell
-cd "C:\Users\palak\krishirakshak - Copy"
-
-Open the README:
-
-notepad README.md
-
-Delete the old content → paste the README above → Save.
-
-Then run:
-
-git add README.md
 git commit -m "Improve project README"
 git push
